@@ -157,6 +157,13 @@ ul {
     margin-right: 40px;
 }
 
+#button-draw-sorteo{
+    margin-bottom: 20px;
+}
+
+#button-draw-reinicio:disabled {
+    background: #898989;
+}
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
